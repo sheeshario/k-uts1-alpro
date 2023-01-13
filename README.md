@@ -1,4 +1,4 @@
-# k-uts1-alpro
+# College Mid-Sem-Test Alpro
 
 Projects on Mid Semester's Test on Algorithm and Programming
 
